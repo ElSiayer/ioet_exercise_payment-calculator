@@ -62,7 +62,7 @@ This object contains the start time, end time and how much the hour of work cost
 ## Run the project
 The project uses python version 3.10.2, this must be taken into account to avoid errors in the compilation. The project has a file called .python-version which contains the version of python in which this was developed, this file can be used by [pyenv](https://github.com/pyenv/pyenv) which is used when working with different versions, this facilitates the change of version to which it is needed.
 
-To compile the project go to the root folder of the project and execute the following command:
+To run the project go to the root folder of the project and execute the following command:
     
     python app.py
     
