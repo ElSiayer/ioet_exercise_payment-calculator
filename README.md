@@ -43,9 +43,9 @@ The project validates the input data, if it does not correspond to the desired d
 
 To calculate the hours worked, these hours are converted into minutes in order to calculate the time ranges with their respective cost.
 
-To change the input data there is a file called employees.txt, which is where the employee data is extracted.
+To change the input data there is a file called `employees.txt`, which is where the employee data is extracted.
 
-To change the ranges of hours, payments or the abbreviations of the days there is a file called utilities.py.
+To change the ranges of hours, payments or the abbreviations of the days there is a file called `utilities.py`.
 
 ## Architecture
 The project uses an object-oriented architecture as it is divided into individual objects for data handling, these objects have their own information and methods.
